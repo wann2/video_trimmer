@@ -65,6 +65,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.3"
+  ffmpeg_kit_flutter_https:
+    dependency: "direct overridden"
+    description:
+      name: ffmpeg_kit_flutter_https
+      sha256: d667bafaa838bfbd56f453f980fa96ad4bfd7b55f360c20f2b197c47284038a7
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.0.3"
   ffmpeg_kit_flutter_https_gpl:
     dependency: "direct main"
     description:
