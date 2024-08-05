@@ -21,7 +21,7 @@ dependencies:
 dependency_overrides:
   ffmpeg_kit_flutter_https: any
   ffmpeg_kit_flutter: any
-  
+
 dev_dependencies:
   flutter_lints: ^2.0.1
   lints: ^2.0.1
