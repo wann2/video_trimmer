@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   video_player: ^2.7.2
-  ffmpeg_kit_flutter_full_gpl: ^6.0.3
+  ffmpeg_kit_flutter_https_gpl: ^6.0.3
   video_thumbnail: ^0.5.3
   path_provider: ^2.1.1
   intl: ^0.19.0
@@ -19,7 +19,7 @@ dependencies:
   transparent_image: ^2.0.1
 
 dependency_overrides:
-  ffmpeg_kit_flutter_https: any
+  # ffmpeg_kit_flutter_https: any
   ffmpeg_kit_flutter: any
 
 dev_dependencies:
